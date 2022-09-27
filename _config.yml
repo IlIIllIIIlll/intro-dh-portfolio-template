@@ -22,6 +22,7 @@ title: Intro to DH Portfolio
 email: ashley.park@tufts.edu
 description: >- # this means to ignore newlines until "baseurl:"
 Portfolio for Introduction to Digital Humanities. 
+
 baseurl: "/intro-dh-portfolio-template" # CHANGE THIS! the subpath of your site, e.g. /blog
 url: "https://IlIIllIIIlll.github.io/" # CHANGE THIS the base hostname & protocol for your site, e.g. http://example.com
 permalink: /:categories/:year/:month/:day/:title:output_ext
