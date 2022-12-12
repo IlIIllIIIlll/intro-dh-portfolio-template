@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Exercises Ch. 5
-description: *If* Statements
+description: If Statements
 ---
 
 ## 5-1 Conditional Tests
